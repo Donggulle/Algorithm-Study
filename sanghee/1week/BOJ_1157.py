@@ -1,4 +1,4 @@
-#딕셔너리 한번에 만들어주는 counter 생성자 사용
+#딕셔너리 한번에 만들어주는 counter 생성자 사용 (*시간복잡도 해결: O(n^2)에서 O(n)으로)
 from collections import Counter
 word_original = input()
 
