@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ifNotErrorRun">
+      <a href="https://github.com/hikicodori">
         <img src="https://avatars.githubusercontent.com/u/105318588?v=4" width="100px;" alt=""/>
         <br />
         <sub>김찬호</sub>
